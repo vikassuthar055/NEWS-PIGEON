@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+    {
+    "source": {
+    "id": "cbc-news",
+    "name": "CBC News"
+    },
+    "author": "CBC News",
+    "title": "The next generation: 5 Canadian sprinters to watch at Paris Olympics and beyond | CBC Sports",
+    "description": "Behind great Andre De Grasse, there's a new generation of sprinting talent heading to Paris, ready to show Canada what they've got. With athletics set begin on Thursday, Aug. 1, here are five up-and-coming sprinters to watch in Paris and beyond.",
+    "url": "http://www.cbc.ca/sports/olympics/summer/athletics/track/olympic-athletics-paris-2024-5-sprinters-to-watch-1.7274951",
+    "urlToImage": "https://i.cbc.ca/1.7269439.1721932008!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/morales-williams-christopher-240629-1180.jpg",
+    "publishedAt": "2024-07-30T08:07:23.7360555Z",
+    "content": "For the last decade, Andre De Grasse has been the face of Canadian track.\r\nGoing into the Paris Olympics, De Grasse one of two athletes chosen to carry Canada's flag at the opening ceremony has six O… [+7311 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "CBS News",
+    "title": "U.S. men's gymnastics wins first Olympic medal since 2008",
+    "description": "The U.S. men's gymnastics team won bronze in the Paris Olympics team event on Monday. It was the first time the team has medaled since the 2008 games in Beijing. \"CBS Saturday Morning\" co-host and CBS News and sports correspondent Dana Jacobson joins from Par…",
+    "url": "https://www.cbsnews.com/video/us-mens-gymnastics-wins-first-olympic-medal-since-2008/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/30/3aa80ef2-0e1d-40d6-b9ed-436f6b95b0a9/thumbnail/1200x630/d0035cb63e269852cb7d2f6ebd411431/cbsn-fusion-us-mens-gymnastics-wins-first-olympic-medal-since-2008-thumbnail.jpg?v=5501038cbc281520ff9fdc308faab7dc",
+    "publishedAt": "2024-07-30T01:45:00+00:00",
+    "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+    "source": {
+    "id": "medical-news-today",
+    "name": "Medical News Today"
+    },
+    "author": "Robby Berman",
+    "title": "Playing contact sports could raise risk of Parkinson’s-like movement disorder",
+    "description": "A new study found that athletes who developed chronic traumatic encephalopathy (CTE) from playing contact sports have a high risk of Parkinsonism, a movement disorder similar to Parkinson's disease. CTE is a brain disorder often caused by repeated head injuri…",
+    "url": "https://www.medicalnewstoday.com/articles/contact-sports-parkinsonism-risk",
+    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/07/American-football-helmet-1200-628-facebook.jpg",
+    "publishedAt": "2024-07-29T15:09:41Z",
+    "content": "<ul><li>Playing contact sports is linked to the development of chronic traumatic encephalopathy (CTE), a brain disorder often caused by repeated head injuries.</li><li>A new study found that athletes… [+5410 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-sports",
+    "name": "Fox Sports"
+    },
+    "author": "John Fanta, Michael Cohen",
+    "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+    "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+    "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+    "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+    "publishedAt": "2024-02-29T20:59:30Z",
+    "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+    },
+    {
+    "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": null,
+    "title": "New Micah Parsons Show ",
+    "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+    "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+    "urlToImage": null,
+    "publishedAt": "2023-11-27T20:37:24.6381564Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": null,
+    "title": " Mikal Bridges Interview ",
+    "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+    "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+    "urlToImage": null,
+    "publishedAt": "2023-11-27T20:37:24.3882176Z",
+    "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+    }
+    ]
+    }
